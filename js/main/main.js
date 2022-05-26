@@ -38,6 +38,7 @@ void (function (global) {
         maxPlane: 3,
         minZoom: -4,
         maxZoom: 4,
+        zoomSnap: 0.5,
         doubleClickZoom: false,
         baseMaps: "data_rs3/basemaps.json",
         loadMapData: true,
